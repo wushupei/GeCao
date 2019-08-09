@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Anim>
+ <Data id="1" name="knight_StandingFree" startFrame="0f" endFrame="100f" />
+ <Data id="2" name="knight_sword_out_01" startFrame="101f" endFrame="141f" />
+ <Data id="3" name="knight_combat_mode" startFrame="142f" endFrame="192f" />
+ <Data id="4" name="knight_backwards" startFrame="193f" endFrame="228f" />
+ <Data id="5" name="knight_below_high_swing" startFrame="229f" endFrame="264f" />
+ <Data id="6" name="knight_moving_left" startFrame="265f" endFrame="285f" />
+ <Data id="7" name="knight_moving_right" startFrame="286f" endFrame="306f" />
+ <Data id="8" name="knight_parry_from_stright_down" startFrame="307f" endFrame="342f" />
+ <Data id="9" name="knight_parry_mid_front" startFrame="343f" endFrame="378f" />
+ <Data id="10" name="knight_parry_mid_left" startFrame="379f" endFrame="414f" />
+ <Data id="11" name="knight_Hit_from_front" startFrame="415f" endFrame="450f" />
+ <Data id="12" name="knight_specal_attack_A" startFrame="451f" endFrame="486f" />
+ <Data id="13" name="knight_swing_high_straight_down" startFrame="487f" endFrame="522f" />
+ <Data id="14" name="knight_swing_mid_left" startFrame="523f" endFrame="558f" />
+ <Data id="15" name="knight_swing_mid_right" startFrame="559f" endFrame="594f" />
+ <Data id="16" name="knight_thrust_mid" startFrame="595f" endFrame="630f" />
+ <Data id="17" name="knight_specal_attack_B" startFrame="631f" endFrame="676f" />
+ <Data id="18" name="knight_specal_attack_C" startFrame="677f" endFrame="722f" />
+ <Data id="19" name="knight_dodge_to_left" startFrame="723f" endFrame="758f" />
+ <Data id="20" name="knight_dodge_to_right" startFrame="759f" endFrame="794f" />
+ <Data id="21" name="knight_sword_back_01" startFrame="795f" endFrame="835f" />
+ <Data id="22" name="knight_looking_around" startFrame="836f" endFrame="1012f" />
+ <Data id="23" name="knight_talking" startFrame="1013f" endFrame="1058f" />
+ <Data id="24" name="knight_use_object" startFrame="1059f" endFrame="1099f" />
+ <Data id="25" name="knight_salute" startFrame="1100f" endFrame="1160f" />
+ <Data id="26" name="knight_Dying" startFrame="1161f" endFrame="1226f" />
+ <Data id="27" name="knight_Jump_runing" startFrame="1231f" endFrame="1271f" />
+ <Data id="28" name="knight_Run" startFrame="1276f" endFrame="1298f" />
+ <Data id="29" name="knight_charging" startFrame="1303f" endFrame="1325f" />
+ <Data id="30" name="knight_walk" startFrame="1330f" endFrame="1375f" />
+</Anim>

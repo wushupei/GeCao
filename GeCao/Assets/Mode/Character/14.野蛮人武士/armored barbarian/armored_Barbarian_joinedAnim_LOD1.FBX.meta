@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 05823728c5b4bc54d95cf746973b778f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone08
+    100002: Bone07
+    100004: Bone06
+    100006: Bone05
+    100008: Bone01
+    100010: Bip01 R Toe0Nub
+    100012: Bip01 R Toe0
+    100014: Bip01 R Foot
+    100016: Bip01 R Calf
+    100018: Bip01 R Thigh
+    100020: //RootNode
+    100022: Bip01 R Finger4Nub
+    100024: Bip01 R Finger41
+    100026: Bip01 R Finger3Nub
+    100028: Bip01 R Finger31
+    100030: Bip01 R Finger2Nub
+    100032: Bip01 R Finger21
+    100034: Bip01 R Finger1Nub
+    100036: Bip01 R Finger11
+    100038: Bip01 R Finger0Nub
+    100040: Bip01 R Finger01
+    100042: Bip01 R UpperArm
+    100044: Bip01 R Clavicle
+    100046: Bip01 L Finger4Nub
+    100048: Bip01 L Finger41
+    100050: Bip01 L Finger3Nub
+    100052: Bip01 L Finger31
+    100054: Bip01 L Finger2Nub
+    100056: Bip01 L Finger21
+    100058: Bip01 L Finger1Nub
+    100060: Bip01 L Finger11
+    100062: Bip01 L Finger0Nub
+    100064: Bip01 L Finger01
+    100066: Bip01 L UpperArm
+    100068: Bip01 L Clavicle
+    100070: Bip01 L Toe0Nub
+    100072: Bip01 L Toe0
+    100074: Bip01 L Foot
+    100076: Bip01 L Calf
+    100078: Bip01 L Thigh
+    100080: objdao_Object02
+    100082: Bone04
+    100084: Bip01 R Finger4
+    100086: Bip01 R Finger3
+    100088: Bip01 R Finger2
+    100090: Bip01 R Finger1
+    100092: Bip01 R Finger0
+    100094: Bip01 R Hand
+    100096: Bip01 R Forearm
+    100098: Bip01 L Finger4
+    100100: Bip01 L Finger3
+    100102: Bip01 L Finger2
+    100104: Bip01 L Finger1
+    100106: Bip01 L Finger0
+    100108: Bip01 L Hand
+    100110: Bip01 L Forearm
+    100112: Bip01 HeadNub
+    100114: Bip01 Head
+    100116: Bip01 Neck
+    100118: Bip01 Spine1
+    100120: Bip01 Spine
+    100122: Bip01 Pelvis
+    100124: Bip01 Footsteps
+    100126: Bip01
+    100128: polySurface7
+    400000: Bone08
+    400002: Bone07
+    400004: Bone06
+    400006: Bone05
+    400008: Bone01
+    400010: Bip01 R Toe0Nub
+    400012: Bip01 R Toe0
+    400014: Bip01 R Foot
+    400016: Bip01 R Calf
+    400018: Bip01 R Thigh
+    400020: //RootNode
+    400022: Bip01 R Finger4Nub
+    400024: Bip01 R Finger41
+    400026: Bip01 R Finger3Nub
+    400028: Bip01 R Finger31
+    400030: Bip01 R Finger2Nub
+    400032: Bip01 R Finger21
+    400034: Bip01 R Finger1Nub
+    400036: Bip01 R Finger11
+    400038: Bip01 R Finger0Nub
+    400040: Bip01 R Finger01
+    400042: Bip01 R UpperArm
+    400044: Bip01 R Clavicle
+    400046: Bip01 L Finger4Nub
+    400048: Bip01 L Finger41
+    400050: Bip01 L Finger3Nub
+    400052: Bip01 L Finger31
+    400054: Bip01 L Finger2Nub
+    400056: Bip01 L Finger21
+    400058: Bip01 L Finger1Nub
+    400060: Bip01 L Finger11
+    400062: Bip01 L Finger0Nub
+    400064: Bip01 L Finger01
+    400066: Bip01 L UpperArm
+    400068: Bip01 L Clavicle
+    400070: Bip01 L Toe0Nub
+    400072: Bip01 L Toe0
+    400074: Bip01 L Foot
+    400076: Bip01 L Calf
+    400078: Bip01 L Thigh
+    400080: objdao_Object02
+    400082: Bone04
+    400084: Bip01 R Finger4
+    400086: Bip01 R Finger3
+    400088: Bip01 R Finger2
+    400090: Bip01 R Finger1
+    400092: Bip01 R Finger0
+    400094: Bip01 R Hand
+    400096: Bip01 R Forearm
+    400098: Bip01 L Finger4
+    400100: Bip01 L Finger3
+    400102: Bip01 L Finger2
+    400104: Bip01 L Finger1
+    400106: Bip01 L Finger0
+    400108: Bip01 L Hand
+    400110: Bip01 L Forearm
+    400112: Bip01 HeadNub
+    400114: Bip01 Head
+    400116: Bip01 Neck
+    400118: Bip01 Spine1
+    400120: Bip01 Spine
+    400122: Bip01 Pelvis
+    400124: Bip01 Footsteps
+    400126: Bip01
+    400128: polySurface7
+    2300000: objdao_Object02
+    3300000: objdao_Object02
+    4300000: polySurface7
+    4300002: objdao_Object02
+    6400000: objdao_Object02
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: polySurface7
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
